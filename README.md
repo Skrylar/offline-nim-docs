@@ -1,5 +1,5 @@
 
-Sometimes you want to read documentation when you don't have an internet connection, or maybe you want to be able to search it without every nosy packet snooper in the planet seeing how much of a noob you are. Now you can do either of thsoe things.
+Sometimes you want to read documentation when you don't have an internet connection, or maybe you want to be able to search it without every nosy packet snooper in the planet seeing how much of a noob you are. Now you can do either of those things.
 
 Place the `nim.zim` (try to avoid tongue twister issues) in your Zim reader of choice. [Kiwix](http://kiwix.org) is the most notable of these.
 
